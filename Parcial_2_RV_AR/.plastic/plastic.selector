@@ -1,0 +1,4 @@
+repository "Parcial_2_RV_AR 2026-10-29_19-13-23/Parcial_2_RV_AR@4672957569243@cloud"
+  path "/"
+    br "/main"
+    co "/main"
